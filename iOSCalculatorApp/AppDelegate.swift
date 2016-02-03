@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  iOSCalculatorApp
 //
-//  Created by student on 2016-02-03.
+//  Created by Kelly McAlpine on 2016-02-03.
 //  Copyright © 2016 KellyMcAlpine. All rights reserved.
 //
 
